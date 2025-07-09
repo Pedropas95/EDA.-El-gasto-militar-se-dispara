@@ -1,0 +1,206 @@
+,PAISES ,GRUPO_PIB
+0,Emiratos Árabes Unidos,Alto
+1,Argentina,Alto
+2,Australia,Alto
+3,Bélgica,Alto
+4,Bangladesh,Alto
+5,Brasil,Alto
+6,Canadá,Alto
+7,China,Alto
+8,Colombia,Alto
+9,Alemania,Alto
+10,"Egipto, República Árabe de",Alto
+11,España,Alto
+12,Francia,Alto
+13,Reino Unido,Alto
+14,Indonesia,Alto
+15,Sólo AIF,Alto
+16,India,Alto
+17,Irlanda,Alto
+18,"Irán, República Islámica del",Alto
+19,Israel,Alto
+20,Italia,Alto
+21,Japón,Alto
+22,"Corea, República de",Alto
+23,México,Alto
+24,Malasia,Alto
+25,América del Norte,Alto
+26,Nigeria,Alto
+27,Países Bajos,Alto
+28,Noruega,Alto
+29,Filipinas,Alto
+30,Polonia,Alto
+31,Rumania,Alto
+32,Federación de Rusia,Alto
+33,Arabia Saudita,Alto
+34,Singapur,Alto
+35,Suecia,Alto
+36,Tailandia,Alto
+37,Turquía,Alto
+38,Estados Unidos,Alto
+39,Viet Nam,Alto
+40,Mundo,Alto
+41,Aruba,Bajo
+42,Andorra,Bajo
+43,Antigua y Barbuda,Bajo
+44,Burundi,Bajo
+45,Bahrein,Bajo
+46,Bahamas,Bajo
+47,Belice,Bajo
+48,Bermudas,Bajo
+49,Barbados,Bajo
+50,Brunei Darussalam,Bajo
+51,Bhután,Bajo
+52,Botswana,Bajo
+53,República Centroafricana,Bajo
+54,Islas del Canal,Bajo
+55,"Congo, República del",Bajo
+56,Comoras,Bajo
+57,Cabo Verde,Bajo
+58,Curacao,Bajo
+59,Islas Caimán,Bajo
+60,Djibouti,Bajo
+61,Dominica,Bajo
+62,Ecuador,Bajo
+63,Fiji,Bajo
+64,Gambia,Bajo
+65,Guinea-Bissau,Bajo
+66,Guinea Ecuatorial,Bajo
+67,Granada,Bajo
+68,Groenlandia,Bajo
+69,Kenya,Bajo
+70,Kirguistán,Bajo
+71,Camboya,Bajo
+72,Kiribati,Bajo
+73,Saint Kitts y Nevis,Bajo
+74,República Democrática Popular Lao,Bajo
+75,Liberia,Bajo
+76,Libia,Bajo
+77,Santa Lucía,Bajo
+78,Liechtenstein,Bajo
+79,Lesotho,Bajo
+80,Mónaco,Bajo
+81,Madagascar,Bajo
+82,Maldivas,Bajo
+83,Islas Marshall,Bajo
+84,Macedonia del Norte,Bajo
+85,Myanmar,Bajo
+86,Montenegro,Bajo
+87,Mauritania,Bajo
+88,Mauricio,Bajo
+89,Malawi,Bajo
+90,Namibia,Bajo
+91,Níger,Bajo
+92,Nepal,Bajo
+93,Nauru,Bajo
+94,Panamá,Bajo
+95,Palau,Bajo
+96,Puerto Rico (US),Bajo
+97,Ribera Occidental y Gaza,Bajo
+98,Estados pequeos de las Islas del Pacfico,Bajo
+99,Polinesia Francesa,Bajo
+100,Rwanda,Bajo
+101,Sudán,Bajo
+102,Islas Salomón,Bajo
+103,Sierra Leona,Bajo
+104,El Salvador,Bajo
+105,Somalia,Bajo
+106,Santo Tomé y Príncipe,Bajo
+107,Suriname,Bajo
+108,Eswatini,Bajo
+109,Sint Maarten (Dutch part),Bajo
+110,Seychelles,Bajo
+111,Islas Turcas y Caicos,Bajo
+112,Togo,Bajo
+113,Tayikistán,Bajo
+114,Timor-Leste,Bajo
+115,Tonga,Bajo
+116,Tuvalu,Bajo
+117,San Vicente y las Granadinas,Bajo
+118,Vanuatu,Bajo
+119,Samoa,Bajo
+120,Kosovo,Bajo
+121,Zimbabwe,Bajo
+122,,
+123,Afganistán,Medio
+124,Angola,Medio
+125,Albania,Medio
+126,Armenia,Medio
+127,Austria,Medio
+128,Azerbaiyán,Medio
+129,Benin,Medio
+130,Burkina Faso,Medio
+131,Bulgaria,Medio
+132,Bosnia y Herzegovina,Medio
+133,Belarús,Medio
+134,Bolivia,Medio
+135,Suiza,Medio
+136,Chile,Medio
+137,Côte d'Ivoire,Medio
+138,Camerún,Medio
+139,"Congo, República Democrática del",Medio
+140,Costa Rica,Medio
+141,Estados pequeos del Caribe,Medio
+142,Chipre,Medio
+143,República Checa,Medio
+144,Dinamarca,Medio
+145,República Dominicana,Medio
+146,Argelia,Medio
+147,Estonia,Medio
+148,Finlandia,Medio
+149,Gabón,Medio
+150,Georgia,Medio
+151,Ghana,Medio
+152,Guinea,Medio
+153,Grecia,Medio
+154,Guatemala,Medio
+155,Guyana,Medio
+156,Honduras,Medio
+157,Croacia,Medio
+158,Haití,Medio
+159,Hungría,Medio
+160,Iraq,Medio
+161,Islandia,Medio
+162,Jamaica,Medio
+163,Jordania,Medio
+164,Kazajstán,Medio
+165,Kuwait,Medio
+166,Líbano,Medio
+167,Sri Lanka,Medio
+168,Lituania,Medio
+169,Luxemburgo,Medio
+170,Letonia,Medio
+171,"Región Administrativa Especial de Macao, China",Medio
+172,Marruecos,Medio
+173,República de Moldova,Medio
+174,Malí,Medio
+175,Malta,Medio
+176,Mongolia,Medio
+177,Mozambique,Medio
+178,Nicaragua,Medio
+179,Nueva Zelandia,Medio
+180,Omán,Medio
+181,Otros Estados pequeos,Medio
+182,Pakistán,Medio
+183,Perú,Medio
+184,Papua Nueva Guinea,Medio
+185,Portugal,Medio
+186,Paraguay,Medio
+187,Qatar,Medio
+188,Senegal,Medio
+189,Serbia,Medio
+190,Pequeños Estados,Medio
+191,República Eslovaca,Medio
+192,Eslovenia,Medio
+193,República Árabe Siria,Medio
+194,Chad,Medio
+195,Turkmenistán,Medio
+196,Trinidad y Tobago,Medio
+197,Túnez,Medio
+198,Tanzanía,Medio
+199,Uganda,Medio
+200,Ucrania,Medio
+201,Uruguay,Medio
+202,Uzbekistán,Medio
+203,Sudáfrica,Medio
+204,Zambia,Medio
